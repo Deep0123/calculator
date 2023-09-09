@@ -16,6 +16,6 @@ Contributions are always welcome!
 You just need to follow the simple steps to contribute in my project: 
 - star my repo
 - fork it
-- commit your changest
+- commit your changes
 - open Pull request
 
